@@ -1,18 +1,18 @@
 ---
-header_brand: "Codejoy"
-header_tagline_paragraph: "人工智能教育，可以很简单有趣。用有趣的方式拥抱科技，培养 AI 时代的创造者"
+header_brand: "Codejoy 酷爱教育"
+header_tagline_paragraph: "人工智能教育，可以很简单有趣。"
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
 header_button_more:
   url: "#the-future---today"
   title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
 # 简介
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+我们致力于用有趣的方式拥抱科技，培养 AI 时代的创造者。
+
 
 ---
 
@@ -31,6 +31,10 @@ Check out this sweet preview. Impressed much, are you?
 ---
 
 # 产品和服务
+
+- 幼儿园 AI 启蒙教育
+- AI 营地解决方案
+- 学校 After School 解决方案
 
 Let's keep it simple. This is our contact information:
 
